@@ -1,0 +1,6 @@
+C:\Users\nicol\OneDrive\Escritorio\SuscripcionRevistaMensuales\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\nicol\OneDrive\Escritorio\SuscripcionRevistaMensuales\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\nicol\OneDrive\Escritorio\SuscripcionRevistaMensuales\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\nicol\OneDrive\Escritorio\SuscripcionRevistaMensuales\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\SuscripcionRevistaMensuales\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\nicol\OneDrive\Escritorio\SuscripcionRevistaMensuales\CapaEntidades\obj\Debug\CapaEntidades.pdb
